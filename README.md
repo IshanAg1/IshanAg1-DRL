@@ -126,10 +126,17 @@ The **Actor–Critic** structure ensures that the policy learns **continuous con
 
 ## 📈 **Results**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://pylessons.com/media/Tutorials/Reinforcement-learning-tutorial/LunarLander-v2-PPO/1.png" width="480"><br>
   <em>Training Curve: Average Episode Reward and Length (TensorBoard Visualization)</em>
+</p> -->
+
+<p align="center">
+  <img src="l4 - Made with Clipchamp_1761941731693.gif" width="550">
+  <br>
+  <em>Final Trained Rocket Landing Simulation using PPO</em>
 </p>
+
 
 **Performance Summary:**
 - Mean episodic reward improved from **−8.5 → +8.9**  
