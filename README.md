@@ -4,24 +4,24 @@
 
 Trained a reinforcement learning agent to achieve **stable, fuel-efficient vertical landings** using the **Proximal Policy Optimization (PPO)** algorithm in a **custom simulation environment** built with **OpenAI Gym** and **Box2D** physics.  
 
----
+--
 
 ## 🧩 **Table of Contents**
 - [Overview](#overview)
 - [Environment Description](#environment-description)
-- [Action & State Spaces](#action--state-spaces)
+- [Action and State Spaces](#action-and-state-spaces)
 - [Reward Function](#reward-function)
 - [Neural Network Architecture](#neural-network-architecture)
-- [Training & Hyperparameters](#training--hyperparameters)
+- [Training and Hyperparameters](#training-and-hyperparameters)
 - [Results](#results)
-- [Challenges & Future Work](#challenges--future-work)
+- [Challenges and Future Work](#challenges-and-future-work)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [References](#references)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
----
+--
 
 ## 🌍 **Overview**
 
